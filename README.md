@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification-on-Breast-Cancer-Wisconsin-Diagnostic-Data-Set-using-Machine-Learn
+Breast Cancer Classification on  Breast Cancer Wisconsin (Diagnostic) Data Set   using Machine Learning The goal of this project is to classify whether the breast cancer is benign or malignant by applying various machine learning techniques.The idea of this project is to apply data analysis and machine learning techniques to classify breast cancer and help in the treatment process.
